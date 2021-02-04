@@ -28,3 +28,14 @@ ingredients:
 
 **[Link to AboutMe](AboutMe.md)**
 
+## Places to visit
+
+The below table is about the places that I have visited and liked the most. 
+
+| Location name | Time to be spent | Approximate expenses
+| ------        | ------           | ------
+| Goa         | 5 days           | $400
+| Mumbai        | 8 days           | $600
+| Manali          | 5 days           | $500
+| Yanam | 10 days       | $700 
+
