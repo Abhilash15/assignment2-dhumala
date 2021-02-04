@@ -39,3 +39,12 @@ The below table is about the places that I have visited and liked the most.
 | Manali          | 5 days           | $500
 | Yanam | 10 days       | $700 
 
+---
+
+## Pithy Quotes
+
+> “ The purpose of our lives is to be happy.” — Dalai Lama.
+ <br>
+
+> “ Life is what happens when you're busy making other plans.” — John Lennon.
+<br>
