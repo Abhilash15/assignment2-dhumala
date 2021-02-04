@@ -48,3 +48,29 @@ The below table is about the places that I have visited and liked the most.
 
 > “ Life is what happens when you're busy making other plans.” — John Lennon.
 <br>
+
+
+---
+
+## JavaScript
+
+> JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles. <br>
+Source link : <https://developer.mozilla.org/en-US/docs/Web/JavaScript>
+
+
+```
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>What Can JavaScript Do?</h2>
+
+<p id="demo">JavaScript can change HTML content.</p>
+
+<button type="button" onclick='document.getElementById("demo").innerHTML = "Hello JavaScript!"'>Click Me!</button>
+
+</body>
+</html>
+
+```  
+Quick link for code snippet : <https://www.programiz.com/javascript/if-else> README.md Displaying README.md.
